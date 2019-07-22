@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# 基督教要义
+《基督教要义》是一本全书以简明易懂的方式,系统地阐明了基督教神学要义的书。
 
-You can use the [editor on GitHub](https://github.com/solomonqins/ins.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[![cover](/783.jpg)](images/wes_md.jpg.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 版权声明
+SELECTIONS FROM   JOHN CALVIN, INSTITUTES OF THE CHRISTIAN RELIGION 中英對照讀本 
+Samuel Ling 林慈信
 
-### Markdown
+本网站用于非商业性用途
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/solomonqins/ins.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+有疑问请联系:solomonqins@outlook.com
